@@ -1,3 +1,3 @@
-"hello world"
+var hi = "hello world"
 
 "hello_world"
